@@ -15,7 +15,7 @@ $phone="";
 	}
 
 ?>
-<form action="" style="border:1px solid #ccc">
+<form action="action_page.php" style="border:1px solid #ccc">
   <div class="container">
     <h1>Update Your Profile</h1>
     <p>Please fill in this form to update your account.</p>
